@@ -1,19 +1,19 @@
-# 🎓 Student Grade Management System
+#  Student Grade Management System
 
-## 📌 Description
+##  Description
 Manages student marks and calculates grades.
 
-## ⚙️ Features
+##  Features
 - Input student details
 - Calculate average
 - Assign grade (A/B/C/F)
 - Display report
 
-## 🛠️ Concepts Used
+## Concepts Used
 - Classes & Objects
 - Arrays
 - Loops
 
-## ▶️ Run
+##  Run
 javac StudentGradeSystem.java  
 java StudentGradeSystem
